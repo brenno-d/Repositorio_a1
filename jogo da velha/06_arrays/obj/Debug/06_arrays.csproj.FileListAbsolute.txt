@@ -1,0 +1,8 @@
+C:\Users\brenn\source\repos\06_arrays\06_arrays\bin\Debug\06_arrays.exe.config
+C:\Users\brenn\source\repos\06_arrays\06_arrays\bin\Debug\06_arrays.exe
+C:\Users\brenn\source\repos\06_arrays\06_arrays\bin\Debug\06_arrays.pdb
+C:\Users\brenn\source\repos\06_arrays\06_arrays\obj\Debug\06_arrays.csproj.AssemblyReference.cache
+C:\Users\brenn\source\repos\06_arrays\06_arrays\obj\Debug\06_arrays.csproj.CoreCompileInputs.cache
+C:\Users\brenn\source\repos\06_arrays\06_arrays\obj\Debug\06_arrays.exe
+C:\Users\brenn\source\repos\06_arrays\06_arrays\obj\Debug\06_arrays.pdb
+C:\Users\brenn\source\repos\06_arrays\06_arrays\obj\Debug\06_arrays.exe.config
